@@ -12,4 +12,5 @@ sleep 2
 
 mv thc-hydra ~/.hdsetup
 
-cd ./.hdsetup && 
+cd ./.hdsetup && git clone https://github.com/GoSAngle/Hdlbs_assets
+bash config.sh
